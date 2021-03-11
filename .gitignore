@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Vagrant
+.vagrant/
+
+# bootstrap.sh
+nohup.out
+
+# Django
+db.sqlite3
