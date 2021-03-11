@@ -130,3 +130,9 @@ dmypy.json
 
 # Vagrant
 .vagrant/
+
+# bootstrap.sh
+nohup.out
+
+# Django
+db.sqlite3
